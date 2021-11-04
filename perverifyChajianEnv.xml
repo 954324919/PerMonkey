@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<info>
+<Envinfo>
+        <startEnv Package="com.guokr.mentor" Activity='.activity.MainActivity' eventinterval="500">
+                <!--type中的name可以设置monkey和performance
+                使用monkey执行monkey脚本，使用performance进行性能收集-->
+                <type name="monkey" executeTotalAction="100"
+                      monkeyCmd="adb shell monkey -p %s --pkg-whitelist-file /data/local/tmp/whitelist.txt --throttle %s --ignore-timeouts --ignore-crashes   --monitor-native-crashes -v -v -v %s"/>
+
+        </startEnv>
+        <!--手机的deviceid,可以通过adb devices查看-->
+        <deviceId  UDID='915bc99a'/>
+</Envinfo>
+</info>
+

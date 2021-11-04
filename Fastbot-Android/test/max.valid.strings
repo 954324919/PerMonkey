@@ -1,0 +1,992 @@
+String pool of 991 unique UTF-8 non-sorted strings, 991 entries and 0 styles using 38096 bytes:
+String #0: res/layout/abc_action_bar_decor_overlay.xml
+String #1: res/layout/abc_activity_chooser_view_list_item.xml
+String #2: res/layout/abc_activity_chooser_view_include.xml
+String #3: res/layout/abc_activity_chooser_view.xml
+String #4: res/layout/abc_action_mode_close_item.xml
+String #5: res/layout/abc_action_menu_layout.xml
+String #6: res/layout/abc_action_menu_item_layout.xml
+String #7: res/layout/abc_action_bar_view_list_nav_layout.xml
+String #8: res/layout/abc_action_bar_title_item.xml
+String #9: res/drawable/abc_spinner_ab_holo_light.xml
+String #10: res/layout/abc_action_bar_tabbar.xml
+String #11: res/layout/abc_action_bar_tab.xml
+String #12: res/layout/abc_action_bar_home.xml
+String #13: res/drawable/abc_list_selector_background_transition_holo_dark.xml
+String #14: res/layout/abc_action_mode_bar.xml
+String #15: res/layout/abc_action_bar_decor_include.xml
+String #16: res/drawable/abc_list_selector_background_transition_holo_light.xml
+String #17: res/layout/abc_action_bar_decor.xml
+String #18: res/drawable/abc_spinner_ab_holo_dark.xml
+String #19: res/drawable/abc_textfield_searchview_right_holo_light.xml
+String #20: res/drawable/abc_textfield_searchview_right_holo_dark.xml
+String #21: res/drawable/abc_textfield_searchview_holo_light.xml
+String #22: res/drawable/abc_textfield_searchview_holo_dark.xml
+String #23: res/drawable/abc_list_selector_holo_dark.xml
+String #24: res/drawable/abc_list_selector_holo_light.xml
+String #25: res/drawable/abc_search_dropdown_dark.xml
+String #26: res/drawable/abc_search_dropdown_light.xml
+String #27: res/layout/abc_simple_decor.xml
+String #28: res/anim/abc_slide_out_top.xml
+String #29: res/drawable/abc_item_background_holo_light.xml
+String #30: res/anim/abc_slide_out_bottom.xml
+String #31: res/anim/abc_slide_in_top.xml
+String #32: res/anim/abc_slide_in_bottom.xml
+String #33: res/drawable/abc_item_background_holo_dark.xml
+String #34: res/anim/abc_fade_out.xml
+String #35: res/anim/abc_fade_in.xml
+String #36: res/layout/support_simple_spinner_dropdown_item.xml
+String #37: res/drawable/abc_ic_clear.xml
+String #38: res/layout/activity_main.xml
+String #39: res/drawable/abc_tab_indicator_ab_holo.xml
+String #40: res/layout/abc_search_view.xml
+String #41: res/layout/abc_popup_menu_item_layout.xml
+String #42: res/layout/abc_expanded_menu_layout.xml
+String #43: res/layout/abc_list_menu_item_checkbox.xml
+String #44: res/color/abc_search_url_text_holo.xml
+String #45: res/layout/abc_list_menu_item_icon.xml
+String #46: res/layout/abc_list_menu_item_layout.xml
+String #47: res/layout/abc_list_menu_item_radio.xml
+String #48: res/drawable/abc_ic_clear_holo_light.xml
+String #49: res/layout/abc_search_dropdown_item_icons_2line.xml
+String #50: res/layout-v11/abc_action_bar_decor.xml
+String #51: res/layout-v11/abc_simple_decor.xml
+String #52: res/layout-v14/abc_activity_chooser_view.xml
+String #53: res/drawable-mdpi-v4/abc_spinner_ab_default_holo_light.9.png
+String #54: res/drawable-mdpi-v4/abc_ic_go.png
+String #55: res/drawable-mdpi-v4/abc_spinner_ab_disabled_holo_dark.9.png
+String #56: res/drawable-mdpi-v4/abc_ic_commit_search_api_holo_light.png
+String #57: res/drawable-mdpi-v4/abc_spinner_ab_default_holo_dark.9.png
+String #58: res/drawable-mdpi-v4/abc_spinner_ab_disabled_holo_light.9.png
+String #59: res/drawable-mdpi-v4/abc_textfield_search_default_holo_dark.9.png
+String #60: res/drawable-mdpi-v4/abc_ic_commit_search_api_holo_dark.png
+String #61: res/drawable-mdpi-v4/abc_spinner_ab_focused_holo_dark.9.png
+String #62: res/drawable-mdpi-v4/abc_spinner_ab_focused_holo_light.9.png
+String #63: res/drawable-mdpi-v4/abc_ic_clear_search_api_holo_light.png
+String #64: res/drawable-mdpi-v4/abc_ic_clear_search_api_disabled_holo_light.png
+String #65: res/drawable-mdpi-v4/abc_tab_selected_focused_holo.9.png
+String #66: res/drawable-mdpi-v4/abc_spinner_ab_pressed_holo_dark.9.png
+String #67: res/drawable-mdpi-v4/abc_ic_clear_normal.png
+String #68: res/drawable-mdpi-v4/abc_spinner_ab_pressed_holo_light.9.png
+String #69: res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+String #70: res/drawable-mdpi-v4/abc_list_divider_holo_dark.9.png
+String #71: res/drawable-mdpi-v4/abc_list_divider_holo_light.9.png
+String #72: res/drawable-mdpi-v4/abc_list_focused_holo.9.png
+String #73: res/drawable-mdpi-v4/abc_ic_voice_search_api_holo_light.png
+String #74: res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png
+String #75: res/drawable-mdpi-v4/abc_ic_voice_search.png
+String #76: res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png
+String #77: res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png
+String #78: res/drawable-mdpi-v4/abc_ic_search_api_holo_light.png
+String #79: res/drawable-mdpi-v4/abc_ic_search.png
+String #80: res/drawable-mdpi-v4/abc_ic_go_search_api_holo_light.png
+String #81: res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png
+String #82: res/drawable-mdpi-v4/abc_ic_menu_share_holo_light.png
+String #83: res/drawable-mdpi-v4/abc_ic_menu_share_holo_dark.png
+String #84: res/drawable-mdpi-v4/abc_menu_dropdown_panel_holo_dark.9.png
+String #85: res/drawable-mdpi-v4/abc_menu_dropdown_panel_holo_light.9.png
+String #86: res/drawable-mdpi-v4/abc_ic_menu_moreoverflow_normal_holo_light.png
+String #87: res/drawable-mdpi-v4/abc_menu_hardkey_panel_holo_dark.9.png
+String #88: res/drawable-mdpi-v4/abc_ic_menu_moreoverflow_normal_holo_dark.png
+String #89: res/drawable-mdpi-v4/abc_menu_hardkey_panel_holo_light.9.png
+String #90: res/drawable-mdpi-v4/abc_textfield_search_right_selected_holo_light.9.png
+String #91: res/drawable-mdpi-v4/abc_textfield_search_right_default_holo_dark.9.png
+String #92: res/drawable-mdpi-v4/abc_ab_stacked_solid_light_holo.9.png
+String #93: res/drawable-mdpi-v4/abc_ic_ab_back_holo_dark.png
+String #94: res/drawable-mdpi-v4/abc_ab_stacked_transparent_dark_holo.9.png
+String #95: res/drawable-mdpi-v4/abc_textfield_search_right_default_holo_light.9.png
+String #96: res/drawable-mdpi-v4/abc_ab_stacked_transparent_light_holo.9.png
+String #97: res/drawable-mdpi-v4/abc_cab_background_top_holo_light.9.png
+String #98: res/drawable-mdpi-v4/abc_textfield_search_right_selected_holo_dark.9.png
+String #99: res/drawable-mdpi-v4/abc_ab_transparent_dark_holo.9.png
+String #100: res/drawable-mdpi-v4/abc_ab_bottom_solid_dark_holo.9.png
+String #101: res/drawable-mdpi-v4/abc_ic_clear_disabled.png
+String #102: res/drawable-mdpi-v4/abc_cab_background_top_holo_dark.9.png
+String #103: res/drawable-mdpi-v4/ic_launcher.png
+String #104: res/drawable-mdpi-v4/abc_textfield_search_selected_holo_dark.9.png
+String #105: res/drawable-mdpi-v4/abc_ab_transparent_light_holo.9.png
+String #106: res/drawable-mdpi-v4/abc_cab_background_bottom_holo_dark.9.png
+String #107: res/drawable-mdpi-v4/abc_cab_background_bottom_holo_light.9.png
+String #108: res/drawable-mdpi-v4/abc_textfield_search_selected_holo_light.9.png
+String #109: res/drawable-mdpi-v4/abc_ab_share_pack_holo_light.9.png
+String #110: res/drawable-mdpi-v4/abc_ic_cab_done_holo_light.png
+String #111: res/drawable-mdpi-v4/abc_ab_bottom_transparent_light_holo.9.png
+String #112: res/drawable-mdpi-v4/abc_tab_selected_pressed_holo.9.png
+String #113: res/drawable-mdpi-v4/abc_ab_bottom_transparent_dark_holo.9.png
+String #114: res/drawable-mdpi-v4/abc_tab_unselected_pressed_holo.9.png
+String #115: res/drawable-mdpi-v4/abc_ab_stacked_solid_dark_holo.9.png
+String #116: res/drawable-mdpi-v4/abc_ic_cab_done_holo_dark.png
+String #117: res/drawable-mdpi-v4/abc_ab_share_pack_holo_dark.9.png
+String #118: res/drawable-mdpi-v4/abc_tab_selected_holo.9.png
+String #119: res/drawable-mdpi-v4/abc_ab_solid_dark_holo.9.png
+String #120: res/drawable-mdpi-v4/abc_ab_bottom_solid_light_holo.9.png
+String #121: res/drawable-mdpi-v4/abc_ic_ab_back_holo_light.png
+String #122: res/drawable-mdpi-v4/abc_ab_solid_light_holo.9.png
+String #123: res/drawable-mdpi-v4/abc_textfield_search_default_holo_light.9.png
+String #124: res/drawable-hdpi-v4/ic_launcher.png
+String #125: res/drawable-hdpi-v4/abc_menu_hardkey_panel_holo_dark.9.png
+String #126: res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png
+String #127: res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+String #128: res/drawable-hdpi-v4/abc_list_divider_holo_light.9.png
+String #129: res/drawable-hdpi-v4/abc_list_focused_holo.9.png
+String #130: res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png
+String #131: res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png
+String #132: res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png
+String #133: res/drawable-hdpi-v4/abc_spinner_ab_disabled_holo_dark.9.png
+String #134: res/drawable-hdpi-v4/abc_tab_selected_focused_holo.9.png
+String #135: res/drawable-hdpi-v4/abc_spinner_ab_pressed_holo_light.9.png
+String #136: res/drawable-hdpi-v4/abc_tab_selected_holo.9.png
+String #137: res/drawable-hdpi-v4/abc_spinner_ab_pressed_holo_dark.9.png
+String #138: res/drawable-hdpi-v4/abc_tab_selected_pressed_holo.9.png
+String #139: res/drawable-hdpi-v4/abc_spinner_ab_focused_holo_light.9.png
+String #140: res/drawable-hdpi-v4/abc_tab_unselected_pressed_holo.9.png
+String #141: res/drawable-hdpi-v4/abc_ab_bottom_solid_dark_holo.9.png
+String #142: res/drawable-hdpi-v4/abc_spinner_ab_focused_holo_dark.9.png
+String #143: res/drawable-hdpi-v4/abc_textfield_search_default_holo_dark.9.png
+String #144: res/drawable-hdpi-v4/abc_spinner_ab_disabled_holo_light.9.png
+String #145: res/drawable-hdpi-v4/abc_textfield_search_selected_holo_light.9.png
+String #146: res/drawable-hdpi-v4/abc_textfield_search_default_holo_light.9.png
+String #147: res/drawable-hdpi-v4/abc_spinner_ab_default_holo_light.9.png
+String #148: res/drawable-hdpi-v4/abc_textfield_search_right_default_holo_dark.9.png
+String #149: res/drawable-hdpi-v4/abc_spinner_ab_default_holo_dark.9.png
+String #150: res/drawable-hdpi-v4/abc_textfield_search_right_default_holo_light.9.png
+String #151: res/drawable-hdpi-v4/abc_menu_hardkey_panel_holo_light.9.png
+String #152: res/drawable-hdpi-v4/abc_textfield_search_right_selected_holo_dark.9.png
+String #153: res/drawable-hdpi-v4/abc_menu_dropdown_panel_holo_light.9.png
+String #154: res/drawable-hdpi-v4/abc_textfield_search_right_selected_holo_light.9.png
+String #155: res/drawable-hdpi-v4/abc_menu_dropdown_panel_holo_dark.9.png
+String #156: res/drawable-hdpi-v4/abc_textfield_search_selected_holo_dark.9.png
+String #157: res/drawable-hdpi-v4/abc_ic_clear_normal.png
+String #158: res/drawable-hdpi-v4/abc_cab_background_bottom_holo_dark.9.png
+String #159: res/drawable-hdpi-v4/abc_ic_ab_back_holo_light.png
+String #160: res/drawable-hdpi-v4/abc_ab_stacked_solid_dark_holo.9.png
+String #161: res/drawable-hdpi-v4/abc_ab_share_pack_holo_dark.9.png
+String #162: res/drawable-hdpi-v4/abc_ic_menu_share_holo_light.png
+String #163: res/drawable-hdpi-v4/abc_ab_transparent_light_holo.9.png
+String #164: res/drawable-hdpi-v4/abc_ic_cab_done_holo_dark.png
+String #165: res/drawable-hdpi-v4/abc_ic_go.png
+String #166: res/drawable-hdpi-v4/abc_ic_menu_share_holo_dark.png
+String #167: res/drawable-hdpi-v4/abc_ab_share_pack_holo_light.9.png
+String #168: res/drawable-hdpi-v4/abc_ic_search.png
+String #169: res/drawable-hdpi-v4/abc_ic_go_search_api_holo_light.png
+String #170: res/drawable-hdpi-v4/abc_ic_menu_moreoverflow_normal_holo_light.png
+String #171: res/drawable-hdpi-v4/abc_ab_solid_light_holo.9.png
+String #172: res/drawable-hdpi-v4/abc_ic_cab_done_holo_light.png
+String #173: res/drawable-hdpi-v4/abc_ab_solid_dark_holo.9.png
+String #174: res/drawable-hdpi-v4/abc_ab_transparent_dark_holo.9.png
+String #175: res/drawable-hdpi-v4/abc_ic_menu_moreoverflow_normal_holo_dark.png
+String #176: res/drawable-hdpi-v4/abc_list_divider_holo_dark.9.png
+String #177: res/drawable-hdpi-v4/abc_ic_clear_disabled.png
+String #178: res/drawable-hdpi-v4/abc_ab_bottom_transparent_light_holo.9.png
+String #179: res/drawable-hdpi-v4/abc_cab_background_bottom_holo_light.9.png
+String #180: res/drawable-hdpi-v4/abc_cab_background_top_holo_dark.9.png
+String #181: res/drawable-hdpi-v4/abc_ab_stacked_transparent_dark_holo.9.png
+String #182: res/drawable-hdpi-v4/abc_ic_clear_search_api_holo_light.png
+String #183: res/drawable-hdpi-v4/abc_ab_bottom_solid_light_holo.9.png
+String #184: res/drawable-hdpi-v4/abc_ic_voice_search_api_holo_light.png
+String #185: res/drawable-hdpi-v4/abc_ic_commit_search_api_holo_dark.png
+String #186: res/drawable-hdpi-v4/abc_cab_background_top_holo_light.9.png
+String #187: res/drawable-hdpi-v4/abc_ab_stacked_solid_light_holo.9.png
+String #188: res/drawable-hdpi-v4/abc_ic_voice_search.png
+String #189: res/drawable-hdpi-v4/abc_ab_bottom_transparent_dark_holo.9.png
+String #190: res/drawable-hdpi-v4/abc_ic_commit_search_api_holo_light.png
+String #191: res/drawable-hdpi-v4/abc_ic_ab_back_holo_dark.png
+String #192: res/drawable-hdpi-v4/abc_ic_clear_search_api_disabled_holo_light.png
+String #193: res/drawable-hdpi-v4/abc_ic_search_api_holo_light.png
+String #194: res/drawable-hdpi-v4/abc_ab_stacked_transparent_light_holo.9.png
+String #195: res/drawable-xhdpi-v4/abc_spinner_ab_focused_holo_light.9.png
+String #196: res/drawable-xhdpi-v4/abc_ic_clear_search_api_disabled_holo_light.png
+String #197: res/drawable-xhdpi-v4/abc_ab_stacked_transparent_light_holo.9.png
+String #198: res/drawable-xhdpi-v4/abc_spinner_ab_pressed_holo_light.9.png
+String #199: res/drawable-xhdpi-v4/abc_ab_stacked_transparent_dark_holo.9.png
+String #200: res/drawable-xhdpi-v4/abc_spinner_ab_pressed_holo_dark.9.png
+String #201: res/drawable-xhdpi-v4/abc_spinner_ab_focused_holo_dark.9.png
+String #202: res/drawable-xhdpi-v4/abc_ic_clear_normal.png
+String #203: res/drawable-xhdpi-v4/abc_ic_clear_disabled.png
+String #204: res/drawable-xhdpi-v4/abc_cab_background_bottom_holo_light.9.png
+String #205: res/drawable-xhdpi-v4/abc_ic_ab_back_holo_dark.png
+String #206: res/drawable-xhdpi-v4/abc_textfield_search_right_selected_holo_light.9.png
+String #207: res/drawable-xhdpi-v4/abc_textfield_search_selected_holo_dark.9.png
+String #208: res/drawable-xhdpi-v4/abc_textfield_search_right_selected_holo_dark.9.png
+String #209: res/drawable-xhdpi-v4/abc_cab_background_top_holo_dark.9.png
+String #210: res/drawable-xhdpi-v4/abc_textfield_search_right_default_holo_light.9.png
+String #211: res/drawable-xhdpi-v4/abc_cab_background_top_holo_light.9.png
+String #212: res/drawable-xhdpi-v4/abc_cab_background_bottom_holo_dark.9.png
+String #213: res/drawable-xhdpi-v4/abc_textfield_search_right_default_holo_dark.9.png
+String #214: res/drawable-xhdpi-v4/abc_textfield_search_selected_holo_light.9.png
+String #215: res/drawable-xhdpi-v4/abc_textfield_search_default_holo_light.9.png
+String #216: res/drawable-xhdpi-v4/abc_tab_selected_focused_holo.9.png
+String #217: res/drawable-xhdpi-v4/abc_textfield_search_default_holo_dark.9.png
+String #218: res/drawable-xhdpi-v4/abc_ic_ab_back_holo_light.png
+String #219: res/drawable-xhdpi-v4/abc_ab_transparent_light_holo.9.png
+String #220: res/drawable-xhdpi-v4/abc_tab_unselected_pressed_holo.9.png
+String #221: res/drawable-xhdpi-v4/abc_tab_selected_pressed_holo.9.png
+String #222: res/drawable-xhdpi-v4/abc_ic_cab_done_holo_dark.png
+String #223: res/drawable-xhdpi-v4/abc_ab_transparent_dark_holo.9.png
+String #224: res/drawable-xhdpi-v4/ic_launcher.png
+String #225: res/drawable-xhdpi-v4/abc_tab_selected_holo.9.png
+String #226: res/drawable-xhdpi-v4/abc_ic_cab_done_holo_light.png
+String #227: res/drawable-xhdpi-v4/abc_ic_menu_share_holo_light.png
+String #228: res/drawable-xhdpi-v4/abc_menu_hardkey_panel_holo_dark.9.png
+String #229: res/drawable-xhdpi-v4/abc_menu_dropdown_panel_holo_light.9.png
+String #230: res/drawable-xhdpi-v4/abc_ab_share_pack_holo_light.9.png
+String #231: res/drawable-xhdpi-v4/abc_menu_dropdown_panel_holo_dark.9.png
+String #232: res/drawable-xhdpi-v4/abc_ic_menu_moreoverflow_normal_holo_light.png
+String #233: res/drawable-xhdpi-v4/abc_ic_menu_share_holo_dark.png
+String #234: res/drawable-xhdpi-v4/abc_ic_clear_search_api_holo_light.png
+String #235: res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png
+String #236: res/drawable-xhdpi-v4/abc_ab_share_pack_holo_dark.9.png
+String #237: res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+String #238: res/drawable-xhdpi-v4/abc_ic_menu_moreoverflow_normal_holo_dark.png
+String #239: res/drawable-xhdpi-v4/abc_list_focused_holo.9.png
+String #240: res/drawable-xhdpi-v4/abc_ic_search.png
+String #241: res/drawable-xhdpi-v4/abc_ab_bottom_transparent_light_holo.9.png
+String #242: res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png
+String #243: res/drawable-xhdpi-v4/abc_ic_voice_search.png
+String #244: res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png
+String #245: res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png
+String #246: res/drawable-xhdpi-v4/abc_ic_search_api_holo_light.png
+String #247: res/drawable-xhdpi-v4/abc_ab_bottom_transparent_dark_holo.9.png
+String #248: res/drawable-xhdpi-v4/abc_ic_go.png
+String #249: res/drawable-xhdpi-v4/abc_spinner_ab_disabled_holo_dark.9.png
+String #250: res/drawable-xhdpi-v4/abc_list_divider_holo_dark.9.png
+String #251: res/drawable-xhdpi-v4/abc_ab_bottom_solid_dark_holo.9.png
+String #252: res/drawable-xhdpi-v4/abc_ic_commit_search_api_holo_dark.png
+String #253: res/drawable-xhdpi-v4/abc_ab_stacked_solid_dark_holo.9.png
+String #254: res/drawable-xhdpi-v4/abc_spinner_ab_default_holo_light.9.png
+String #255: res/drawable-xhdpi-v4/abc_ic_commit_search_api_holo_light.png
+String #256: res/drawable-xhdpi-v4/abc_ab_solid_dark_holo.9.png
+String #257: res/drawable-xhdpi-v4/abc_spinner_ab_default_holo_dark.9.png
+String #258: res/drawable-xhdpi-v4/abc_spinner_ab_disabled_holo_light.9.png
+String #259: res/drawable-xhdpi-v4/abc_ic_voice_search_api_holo_light.png
+String #260: res/drawable-xhdpi-v4/abc_ab_solid_light_holo.9.png
+String #261: res/drawable-xhdpi-v4/abc_menu_hardkey_panel_holo_light.9.png
+String #262: res/drawable-xhdpi-v4/abc_ic_go_search_api_holo_light.png
+String #263: res/drawable-xhdpi-v4/abc_list_divider_holo_light.9.png
+String #264: res/drawable-xhdpi-v4/abc_ab_stacked_solid_light_holo.9.png
+String #265: res/drawable-xhdpi-v4/abc_ab_bottom_solid_light_holo.9.png
+String #266: res/drawable-xxhdpi-v4/abc_ab_bottom_solid_dark_holo.9.png
+String #267: res/drawable-xxhdpi-v4/abc_tab_selected_focused_holo.9.png
+String #268: res/drawable-xxhdpi-v4/abc_ab_bottom_solid_light_holo.9.png
+String #269: res/drawable-xxhdpi-v4/abc_cab_background_bottom_holo_dark.9.png
+String #270: res/drawable-xxhdpi-v4/abc_textfield_search_selected_holo_dark.9.png
+String #271: res/drawable-xxhdpi-v4/abc_ab_transparent_dark_holo.9.png
+String #272: res/drawable-xxhdpi-v4/abc_textfield_search_selected_holo_light.9.png
+String #273: res/drawable-xxhdpi-v4/abc_ab_bottom_transparent_dark_holo.9.png
+String #274: res/drawable-xxhdpi-v4/abc_ab_transparent_light_holo.9.png
+String #275: res/drawable-xxhdpi-v4/abc_ab_bottom_transparent_light_holo.9.png
+String #276: res/drawable-xxhdpi-v4/abc_ab_share_pack_holo_dark.9.png
+String #277: res/drawable-xxhdpi-v4/abc_ab_share_pack_holo_light.9.png
+String #278: res/drawable-xxhdpi-v4/ic_launcher.png
+String #279: res/drawable-xxhdpi-v4/abc_ab_solid_dark_holo.9.png
+String #280: res/drawable-xxhdpi-v4/abc_ab_stacked_transparent_light_holo.9.png
+String #281: res/drawable-xxhdpi-v4/abc_ab_solid_light_holo.9.png
+String #282: res/drawable-xxhdpi-v4/abc_ab_stacked_solid_dark_holo.9.png
+String #283: res/drawable-xxhdpi-v4/abc_ab_stacked_transparent_dark_holo.9.png
+String #284: res/drawable-xxhdpi-v4/abc_ab_stacked_solid_light_holo.9.png
+String #285: res/drawable-xxhdpi-v4/abc_ic_menu_share_holo_dark.png
+String #286: res/drawable-xxhdpi-v4/abc_spinner_ab_default_holo_light.9.png
+String #287: res/drawable-xxhdpi-v4/abc_ic_commit_search_api_holo_light.png
+String #288: res/drawable-xxhdpi-v4/abc_spinner_ab_default_holo_dark.9.png
+String #289: res/drawable-xxhdpi-v4/abc_ic_go.png
+String #290: res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_holo_light.9.png
+String #291: res/drawable-xxhdpi-v4/abc_ic_go_search_api_holo_light.png
+String #292: res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_holo_dark.9.png
+String #293: res/drawable-xxhdpi-v4/abc_menu_dropdown_panel_holo_light.9.png
+String #294: res/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_normal_holo_dark.png
+String #295: res/drawable-xxhdpi-v4/abc_menu_dropdown_panel_holo_dark.9.png
+String #296: res/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_normal_holo_light.png
+String #297: res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png
+String #298: res/drawable-xxhdpi-v4/abc_cab_background_bottom_holo_light.9.png
+String #299: res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+String #300: res/drawable-xxhdpi-v4/abc_ic_menu_share_holo_light.png
+String #301: res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png
+String #302: res/drawable-xxhdpi-v4/abc_ic_search.png
+String #303: res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png
+String #304: res/drawable-xxhdpi-v4/abc_ic_search_api_holo_light.png
+String #305: res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png
+String #306: res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png
+String #307: res/drawable-xxhdpi-v4/abc_ic_voice_search.png
+String #308: res/drawable-xxhdpi-v4/abc_list_divider_holo_light.9.png
+String #309: res/drawable-xxhdpi-v4/abc_ic_voice_search_api_holo_light.png
+String #310: res/drawable-xxhdpi-v4/abc_list_divider_holo_dark.9.png
+String #311: res/drawable-xxhdpi-v4/abc_spinner_ab_disabled_holo_dark.9.png
+String #312: res/drawable-xxhdpi-v4/abc_textfield_search_right_selected_holo_light.9.png
+String #313: res/drawable-xxhdpi-v4/abc_textfield_search_right_selected_holo_dark.9.png
+String #314: res/drawable-xxhdpi-v4/abc_cab_background_top_holo_dark.9.png
+String #315: res/drawable-xxhdpi-v4/abc_textfield_search_right_default_holo_light.9.png
+String #316: res/drawable-xxhdpi-v4/abc_textfield_search_right_default_holo_dark.9.png
+String #317: res/drawable-xxhdpi-v4/abc_cab_background_top_holo_light.9.png
+String #318: res/drawable-xxhdpi-v4/abc_textfield_search_default_holo_light.9.png
+String #319: res/drawable-xxhdpi-v4/abc_ic_ab_back_holo_dark.png
+String #320: res/drawable-xxhdpi-v4/abc_textfield_search_default_holo_dark.9.png
+String #321: res/drawable-xxhdpi-v4/abc_tab_unselected_pressed_holo.9.png
+String #322: res/drawable-xxhdpi-v4/abc_ic_ab_back_holo_light.png
+String #323: res/drawable-xxhdpi-v4/abc_tab_selected_pressed_holo.9.png
+String #324: res/drawable-xxhdpi-v4/abc_ic_cab_done_holo_dark.png
+String #325: res/drawable-xxhdpi-v4/abc_tab_selected_holo.9.png
+String #326: res/drawable-xxhdpi-v4/abc_ic_cab_done_holo_light.png
+String #327: res/drawable-xxhdpi-v4/abc_spinner_ab_pressed_holo_light.9.png
+String #328: res/drawable-xxhdpi-v4/abc_ic_clear_disabled.png
+String #329: res/drawable-xxhdpi-v4/abc_spinner_ab_pressed_holo_dark.9.png
+String #330: res/drawable-xxhdpi-v4/abc_ic_clear_normal.png
+String #331: res/drawable-xxhdpi-v4/abc_spinner_ab_focused_holo_light.9.png
+String #332: res/drawable-xxhdpi-v4/abc_ic_clear_search_api_disabled_holo_light.png
+String #333: res/drawable-xxhdpi-v4/abc_spinner_ab_focused_holo_dark.9.png
+String #334: res/drawable-xxhdpi-v4/abc_ic_clear_search_api_holo_light.png
+String #335: res/drawable-xxhdpi-v4/abc_spinner_ab_disabled_holo_light.9.png
+String #336: res/drawable-xxhdpi-v4/abc_ic_commit_search_api_holo_dark.png
+String #337: Hello world!
+String #338: AndroidCrash
+String #339: 
+String #340: Done
+String #341: Submit query
+String #342: Navigate home
+String #343: Navigate up
+String #344: More options
+String #345: Search
+String #346: Search query
+String #347: Clear query
+String #348: Voice search
+String #349: Choose an app
+String #350: See all
+String #351: Share with
+String #352: Share with %s
+String #353: Fet
+String #354: Selecciona una aplicació
+String #355: Navega a la pàgina d'inici
+String #356: Comparteix amb
+String #357: Navega cap a dalt
+String #358: Més opcions
+String #359: Comparteix amb %s
+String #360: Consulta de cerca
+String #361: Mostra'ls tots
+String #362: Esborra la consulta
+String #363: Envia la consulta
+String #364: Cerca per veu
+String #365: Cerca
+String #366: Søgeforespørgsel
+String #367: Søg
+String #368: Ryd forespørgslen
+String #369: Flere muligheder
+String #370: Luk
+String #371: Naviger op
+String #372: Indsend forespørgslen
+String #373: Naviger hjem
+String #374: Stemmesøgning
+String #375: Vælg en app
+String #376: Se alle
+String #377: Del med %s
+String #378: Del med
+String #379: گزینه‌های بیشتر
+String #380: ارسال عبارت جستجو
+String #381: پاک کردن عبارت جستجو
+String #382: مشاهده همه
+String #383: پیمایش به بالا
+String #384: ‏اشتراک‌گذاری با %s
+String #385: جستجوی شفاهی
+String #386: پیمایش به صفحه اصلی
+String #387: عبارت جستجو
+String #388: اشتراک‌گذاری با
+String #389: جستجو
+String #390: انجام شد
+String #391: انتخاب برنامه
+String #392: 検索キーワード
+String #393: その他のオプション
+String #394: アプリの選択
+String #395: 音声検索
+String #396: %sと共有
+String #397: 共有
+String #398: 上へ移動
+String #399: 検索
+String #400: すべて表示
+String #401: 検索キーワードを削除
+String #402: 完了
+String #403: ホームへ移動
+String #404: 検索キーワードを送信
+String #405: Talesøk
+String #406: Søk
+String #407: Søkeord
+String #408: Slett søket
+String #409: Velg en app
+String #410: Ferdig
+String #411: Gå til startsiden
+String #412: Flere alternativer
+String #413: Gå opp
+String #414: Utfør søket
+String #415: Alle ansehen
+String #416: Freigeben für
+String #417: Fertig
+String #418: Freigeben für %s
+String #419: Suchanfrage löschen
+String #420: Suchanfrage
+String #421: Nach oben
+String #422: App auswählen
+String #423: Suchen
+String #424: Suchanfrage senden
+String #425: Weitere Optionen
+String #426: Sprachsuche
+String #427: Zur Startseite
+String #428: Soek
+String #429: Kies 'n program
+String #430: Deel met %s
+String #431: Navigeer op
+String #432: Nog opsies
+String #433: Deel met
+String #434: Dien navraag in
+String #435: Navigeer tuis
+String #436: Stemsoektog
+String #437: Sien alles
+String #438: Klaar
+String #439: Vee navraag uit
+String #440: Soeknavraag
+String #441: Придвижване към „Начало“
+String #442: Изпращане на заявката
+String #443: Гласово търсене
+String #444: Още опции
+String #445: Споделяне със: %s
+String #446: Заявка за търсене
+String #447: Изберете приложение
+String #448: Изчистване на заявката
+String #449: Придвижване нагоре
+String #450: Търсене
+String #451: Споделяне със:
+String #452: Вижте всички
+String #453: Готово
+String #454: ส่งข้อความค้นหา
+String #455: ค้นหาด้วยเสียง
+String #456: เสร็จสิ้น
+String #457: นำทางไปหน้าแรก
+String #458: ล้างข้อความค้นหา
+String #459: ค้นหา
+String #460: ดูทั้งหมด
+String #461: ข้อความค้นหา
+String #462: แชร์กับ
+String #463: นำทางขึ้น
+String #464: แชร์กับ %s
+String #465: เลือกแอป
+String #466: ตัวเลือกอื่น
+String #467: Siirry ylös
+String #468: Hakulauseke
+String #469: Haku
+String #470: Lähetä kysely
+String #471: Tyhjennä kysely
+String #472: Jakaminen:
+String #473: Siirry etusivulle
+String #474: Lisää
+String #475: Puhehaku
+String #476: Näytä kaikki
+String #477: Valitse sovellus
+String #478: Jakaminen: %s
+String #479: Valmis
+String #480: मुखपृष्ठ पर नेविगेट करें
+String #481: अधिक विकल्प
+String #482: ऊपर नेविगेट करें
+String #483: पूर्ण
+String #484: इसके द्वारा साझा करें
+String #485: खोजें
+String #486: %s के साथ साझा करें
+String #487: खोज क्वेरी
+String #488: कोई एप्‍लिकेशन चुनें
+String #489: क्वेरी सबमिट करें
+String #490: सभी देखें
+String #491: क्‍वेरी साफ़ करें
+String #492: ध्वनि खोज
+String #493: Tìm kiếm
+String #494: Chia sẻ với %s
+String #495: Chia sẻ với
+String #496: Xong
+String #497: Gửi truy vấn
+String #498: Tìm kiếm truy vấn
+String #499: Điều hướng lên trên
+String #500: Điều hướng về trang chủ
+String #501: Xóa truy vấn
+String #502: Xem tất cả
+String #503: Tìm kiếm bằng giọng nói
+String #504: Thêm tùy chọn
+String #505: Chọn một ứng dụng
+String #506: Zvoľte aplikáciu
+String #507: Prejsť hore
+String #508: Hlasové vyhľadávanie
+String #509: Zdieľať pomocou
+String #510: Odoslať dopyt
+String #511: Prejsť na plochu
+String #512: Vyhľadávací dopyt
+String #513: Zobraziť všetko
+String #514: Vymazať dopyt
+String #515: Zdieľať pomocou %s
+String #516: Hľadať
+String #517: Ďalšie možnosti
+String #518: Hotovo
+String #519: Пошуковий запит
+String #520: Інші опції
+String #521: Очистити запит
+String #522: Пошук
+String #523: Надіслати через %s
+String #524: Переглянути всі
+String #525: Перейти на головний
+String #526: Надіслати запит
+String #527: Надіслати через
+String #528: Голосовий пошук
+String #529: Вибрати програму
+String #530: Перейти вгору
+String #531: Επιλέξτε κάποια εφαρμογή
+String #532: Περισσότερες επιλογές
+String #533: Αναζήτηση
+String #534: Φωνητική αναζήτηση
+String #535: Προβολή όλων
+String #536: Κοινοποίηση με %s
+String #537: Ερώτημα αναζήτησης
+String #538: Υποβολή ερωτήματος
+String #539: Πλοήγηση στην αρχική σελίδα
+String #540: Διαγραφή ερωτήματος
+String #541: Πλοήγηση προς τα επάνω
+String #542: Τέλος
+String #543: Κοινοποίηση με
+String #544: Zoekopdracht
+String #545: Delen met %s
+String #546: Zoeken
+String #547: Zoekopdracht wissen
+String #548: Een app selecteren
+String #549: Gesproken zoekopdracht
+String #550: Meer opties
+String #551: Alles weergeven
+String #552: Omhoog navigeren
+String #553: Navigeren naar startpositie
+String #554: Zoekopdracht verzenden
+String #555: Delen met
+String #556: Gereed
+String #557: Wyszukiwane hasło
+String #558: Wybierz aplikację
+String #559: Wyślij zapytanie
+String #560: Udostępnij dla %s
+String #561: Wyczyść zapytanie
+String #562: Wyszukiwanie głosowe
+String #563: Szukaj
+String #564: Udostępnij dla
+String #565: Przejdź do strony głównej
+String #566: Gotowe
+String #567: Więcej opcji
+String #568: Zobacz wszystkie
+String #569: Przejdź wyżej
+String #570: Iskalna poizvedba
+String #571: Več možnosti
+String #572: Pokaži vse
+String #573: Krmarjenje domov
+String #574: Deljenje z:
+String #575: Končano
+String #576: Deljenje z
+String #577: Izbira aplikacije
+String #578: Glasovno iskanje
+String #579: Iskanje
+String #580: Izbris poizvedbe
+String #581: Krmarjenje navzgor
+String #582: Pošiljanje poizvedbe
+String #583: Maghanap
+String #584: Paghahanap gamit ang boses
+String #585: Pumili ng isang app
+String #586: I-clear ang query
+String #587: Query sa paghahanap
+String #588: Mag-navigate pataas
+String #589: Higit pang mga opsyon
+String #590: Mag-navigate patungo sa home
+String #591: Isumite ang query
+String #592: Ibahagi sa/kay %s
+String #593: Ibahagi sa/kay
+String #594: Tingnan lahat
+String #595: Tapos na
+String #596: ከሚከተለው ጋር ያጋሩ
+String #597: ወደ መነሻ ይዳስሱ
+String #598: መጠይቅ አጽዳ
+String #599: የፍለጋ ጥያቄ
+String #600: ተከናውኗል
+String #601: የድምፅ ፍለጋ
+String #602: ሁሉንም ይመልከቱ
+String #603: ተጨማሪ አማራጮች
+String #604: ፍለጋ
+String #605: ወደ ላይ ይዳስሱ
+String #606: መተግበሪያ ይምረጡ
+String #607: መጠይቅ ያስረክቡ
+String #608: ከ%s ጋር ያጋሩ
+String #609: Hapus kueri
+String #610: Penelusuran suara
+String #611: Bagikan dengan
+String #612: Pilih aplikasi
+String #613: Navigasi ke beranda
+String #614: Telusuri
+String #615: Kueri penelusuran
+String #616: Navigasi naik
+String #617: Opsi lain
+String #618: Bagikan dengan %s
+String #619: Kirim kueri
+String #620: Selesai
+String #621: Lihat semua
+String #622: 완료
+String #623: 위로 탐색
+String #624: 앱 선택
+String #625: 검색어 삭제
+String #626: 음성 검색
+String #627: 공유 대상
+String #628: 검색어
+String #629: 옵션 더보기
+String #630: %s와(과) 공유
+String #631: 검색어 보내기
+String #632: 전체 보기
+String #633: 검색
+String #634: 홈 탐색
+String #635: Căutare vocală
+String #636: Navigați la ecranul de pornire
+String #637: Terminat
+String #638: Navigați în sus
+String #639: Alegeți o aplicaţie
+String #640: Ștergeți interogarea
+String #641: Trimiteți la
+String #642: Interogare de căutare
+String #643: Mai multe opțiuni
+String #644: Trimiteți la %s
+String #645: Trimiteți interogarea
+String #646: Afișați-le pe toate
+String #647: Căutați
+String #648: محو طلب البحث
+String #649: عرض الكل
+String #650: بحث
+String #651: التنقل إلى الشاشة الرئيسية
+String #652: تم
+String #653: ‏مشاركة مع %s
+String #654: خيارات إضافية
+String #655: طلب البحث
+String #656: مشاركة مع
+String #657: إرسال طلب البحث
+String #658: اختيار تطبيق
+String #659: التنقل إلى أعلى
+String #660: البحث الصوتي
+String #661: Sélectionner une application
+String #662: Tout afficher
+String #663: OK
+String #664: Envoyer la requête
+String #665: Partager avec %s
+String #666: Rechercher
+String #667: Revenir à l'accueil
+String #668: Plus d'options
+String #669: Requête de recherche
+String #670: Effacer la requête
+String #671: Partager avec
+String #672: Revenir en haut de la page
+String #673: Recherche vocale
+String #674: Dijeljenje sa: %s
+String #675: Pošalji upit
+String #676: Glasovno pretraživanje
+String #677: Prikaži sve
+String #678: Dijeljenje sa
+String #679: Idi na početnu
+String #680: Pretraživanje
+String #681: Idi gore
+String #682: Odabir aplikacije
+String #683: Dodatne opcije
+String #684: Gotovo
+String #685: Upit za pretraživanje
+String #686: Izbriši upit
+String #687: Прикажи све
+String #688: Кретање нагоре
+String #689: Претрага
+String #690: Слање упита
+String #691: Избор апликације
+String #692: Упит за претрагу
+String #693: Гласовна претрага
+String #694: Брисање упита
+String #695: Дели са
+String #696: Одлазак на Почетну
+String #697: Дели са апликацијом %s
+String #698: Још опција
+String #699: Diğer seçenekler
+String #700: Şununla paylaş
+String #701: Tamamlandı
+String #702: Ara
+String #703: %s ile paylaş
+String #704: Sorguyu gönder
+String #705: Yukarı git
+String #706: Sesli arama
+String #707: Tümünü göster
+String #708: Ana ekrana git
+String #709: Arama sorgusu
+String #710: Bir uygulama seçin
+String #711: Sorguyu temizle
+String #712: Odeslat dotaz
+String #713: Hlasové vyhledávání
+String #714: Sdílet pomocí %s
+String #715: Vyhledávací dotaz
+String #716: Hledat
+String #717: Sdílet pomocí
+String #718: Smazat dotaz
+String #719: Zobrazit vše
+String #720: Přejít na plochu
+String #721: Více možností
+String #722: Přejít nahoru
+String #723: Vybrat aplikaci
+String #724: Buscar
+String #725: Desplazarse hacia arriba
+String #726: Ir a la pantalla de inicio
+String #727: Seleccionar una aplicación
+String #728: Borrar consulta
+String #729: Consulta
+String #730: Enviar consulta
+String #731: Más opciones
+String #732: Ver todo
+String #733: Listo
+String #734: Compartir con
+String #735: Búsqueda por voz
+String #736: Compartir con %s
+String #737: Vai in alto
+String #738: Condividi con
+String #739: Vai alla home page
+String #740: Ricerca vocale
+String #741: Visualizza tutte
+String #742: Fine
+String #743: Scegli un'applicazione
+String #744: Query di ricerca
+String #745: Cancella query
+String #746: Invia query
+String #747: Condividi con %s
+String #748: Altre opzioni
+String #749: Eiti į viršų
+String #750: Išvalyti užklausą
+String #751: Paieška balsu
+String #752: Peržiūrėti viską
+String #753: Pateikti užklausą
+String #754: Bendrinti naudojant „%s“
+String #755: Paieška
+String #756: Daugiau parinkčių
+String #757: Bendrinti naudojant
+String #758: Paieškos užklausa
+String #759: Eiti į pagrindinį puslapį
+String #760: Pasirinkti programą
+String #761: Atlikta
+String #762: Compartilhar com %s
+String #763: Compartilhar com
+String #764: Selecione um aplicativo
+String #765: Navegar para a página inicial
+String #766: Consulta de pesquisa
+String #767: Ver tudo
+String #768: Pesquisar
+String #769: Pesquisa por voz
+String #770: Limpar consulta
+String #771: Mais opções
+String #772: Navegar para cima
+String #773: Concluído
+String #774: Válasszon ki egy alkalmazást
+String #775: Keresési lekérdezés
+String #776: Keresés
+String #777: Felfelé mozgatás
+String #778: Lekérdezés törlése
+String #779: Ugrás a főoldalra
+String #780: Hangalapú keresés
+String #781: Összes megtekintése
+String #782: Megosztás a következővel: %s
+String #783: Megosztás a következővel:
+String #784: További lehetőségek
+String #785: Kész
+String #786: Lekérdezés küldése
+String #787: Другие параметры
+String #788: Удалить запрос
+String #789: Перейти на главный экран
+String #790: Открыть доступ пользователю %s
+String #791: Поисковый запрос
+String #792: Выбрать приложение
+String #793: Поиск
+String #794: Показать все
+String #795: Перейти вверх
+String #796: Голосовой поиск
+String #797: Отправить запрос
+String #798: Открыть доступ
+String #799: Izinketho eziningi
+String #800: Zulazulela ekhaya
+String #801: Sesha
+String #802: Ukusesha ngezwi
+String #803: Khetha uhlelo lokusebenza
+String #804: Yabelana no-
+String #805: Umbuzo wosesho
+String #806: Sula inkinga
+String #807: Hambisa umbuzo
+String #808: Buka konke
+String #809: Zulazulela phezulu
+String #810: Yabelana no-%s
+String #811: Kwenziwe
+String #812: Gatavs
+String #813: Vairāk opciju
+String #814: Kopīgot ar:
+String #815: Pārvietoties augšup
+String #816: Izvēlieties lietotni
+String #817: Meklēt
+String #818: Skatīt visu
+String #819: Pārvietoties uz sākuma ekrānu
+String #820: Meklēšanas vaicājums
+String #821: Kopīgot ar %s
+String #822: Iesniegt vaicājumu
+String #823: Notīrīt vaicājumu
+String #824: Meklēšana ar balsi
+String #825: Ta bort frågan
+String #826: Röstsökning
+String #827: Välj en app
+String #828: Fler alternativ
+String #829: Visa alla
+String #830: Sökfråga
+String #831: Dela med
+String #832: Visa startsidan
+String #833: Skicka fråga
+String #834: Sök
+String #835: Klart
+String #836: Navigera uppåt
+String #837: Dela med %s
+String #838: ראה הכול
+String #839: חיפוש קולי
+String #840: שלח שאילתה
+String #841: נווט לדף הבית
+String #842: בוצע
+String #843: מחק שאילתה
+String #844: נווט למעלה
+String #845: ‏שתף עם %s
+String #846: שתף עם
+String #847: שאילתת חיפוש
+String #848: עוד אפשרויות
+String #849: בחר אפליקציה
+String #850: חפש
+String #851: Shiriki na:
+String #852: Tafuta kwa kutamka
+String #853: Nimemaliza
+String #854: Angalia zote
+String #855: Nenda mwanzo
+String #856: Nenda juu
+String #857: Chagua programu
+String #858: Chaguo zaidi
+String #859: Tafuta
+String #860: Hoja ya utafutaji
+String #861: Shiriki na %s
+String #862: Futa hoja
+String #863: Wasilisha hoja
+String #864: Voir toutes les chaînes
+String #865: Sélectionnez une application
+String #866: Terminé
+String #867: ເບິ່ງທັງຫມົດ
+String #868: ເລືອກແອັບຯ
+String #869: ຊອກຫາດ້ວຍສຽງ
+String #870: ສົ່ງການຊອກຫາ
+String #871: ລຶບຂໍ້ຄວາມຊອກຫາ
+String #872: ແບ່ງ​ປັນ​ກັບ​ %s
+String #873: ຊອກຫາ
+String #874: ໂຕເລືອກອື່ນ
+String #875: ຂຶ້ນເທິງ
+String #876: ກັບໄປໜ້າຫຼັກ
+String #877: ແບ່ງປັນກັບ
+String #878: ແລ້ວໆ
+String #879: Finished
+String #880: Kuva kõik
+String #881: Jagamine:
+String #882: Navigeerimine avaekraanile
+String #883: Häälotsing
+String #884: Navigeerimine üles
+String #885: Rohkem valikuid
+String #886: Päringu esitamine
+String #887: Otsing
+String #888: Otsingupäring
+String #889: Päringu tühistamine
+String #890: Valige rakendus
+String #891: Jagamine kasutajaga %s
+String #892: ხმოვანი ძიება
+String #893: დასრულდა
+String #894: მოთხოვნის გადაგზავნა
+String #895: მოთხოვნის გასუფთავება
+String #896: %s-თან გაზიარება
+String #897: ძიების მოთხოვნა
+String #898: ძიება
+String #899: მეტი ვარიანტები
+String #900: ზემოთ ნავიგაცია
+String #901: მთავარზე ნავიგაცია
+String #902: გაზიარება:
+String #903: აპის არჩევა
+String #904: ყველას ნახვა
+String #905: សម្អាត​សំណួរ
+String #906: រកមើល​ឡើងលើ
+String #907: ចែករំលែក​ជាមួយ %s
+String #908: ជ្រើស​កម្មវិធី​​
+String #909: ស្វែងរក​សំណួរ
+String #910: រកមើល​ទៅ​ដើម
+String #911: ជម្រើស​ច្រើន​ទៀត
+String #912: មើល​ទាំងអស់
+String #913: ចែករំលែក​ជាមួយ
+String #914: រួចរាល់
+String #915: ការស្វែងរក​សំឡេង
+String #916: ស្វែងរក
+String #917: ដាក់​​​ស្នើ​សំណួរ
+String #918: 分享對象
+String #919: 瀏覽主頁
+String #920: 顯示全部
+String #921: 完成
+String #922: 更多選項
+String #923: 提交查詢
+String #924: 清除查詢
+String #925: 選擇應用程式
+String #926: 搜尋查詢
+String #927: 搜尋
+String #928: 與「%s」分享
+String #929: 向上瀏覽
+String #930: 語音搜尋
+String #931: Որոնման հարցում
+String #932: Ընտրել ծրագիր
+String #933: Այլ ընտրանքներ
+String #934: Որոնել
+String #935: Ուղղվել վերև
+String #936: Տարածել ըստ %s
+String #937: Ուղղվել տուն
+String #938: Տեսնել բոլորը
+String #939: Կատարված է
+String #940: Մաքրել հարցումը
+String #941: Ձայնային որոնում
+String #942: Ուղարկել հարցումը
+String #943: Տարածել
+String #944: 转到主屏幕
+String #945: 选择应用
+String #946: 转到上一层级
+String #947: 分享方式
+String #948: 更多选项
+String #949: 搜索
+String #950: 提交查询
+String #951: 语音搜索
+String #952: 清除查询
+String #953: 搜索查询
+String #954: 通过%s分享
+String #955: 查看全部
+String #956: Нэмэлт сонголтууд
+String #957: Хуваалцах
+String #958: Асуулгыг илгээх
+String #959: Асуулгыг цэвэрлэх
+String #960: Дуут хайлт
+String #961: Дууссан
+String #962: Хайх асуулга
+String #963: Нүүр хуудас руу шилжих
+String #964: %s-тай хуваалцах
+String #965: Хайх
+String #966: Апп сонгох
+String #967: Дээш шилжих
+String #968: Бүгдийг харах
+String #969: Navegar a la página principal
+String #970: Consulta de búsqueda
+String #971: Navegar hacia arriba
+String #972: Elige una aplicación.
+String #973: Eliminar la consulta
+String #974: Búsqueda
+String #975: Partilhar com %s
+String #976: Partilhar com
+String #977: Escolher uma aplicação
+String #978: 瀏覽首頁
+String #979: 選擇分享對象
+String #980: Serah pertanyaan
+String #981: Kongsi dengan
+String #982: Lagi pilihan
+String #983: Pilih apl
+String #984: Kosongkan pertanyaan
+String #985: Navigasi ke atas
+String #986: Carian suara
+String #987: Pertanyaan carian
+String #988: Cari
+String #989: Kongsi dengan %s
+String #990: Navigasi skrin utama
